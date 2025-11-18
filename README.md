@@ -4,7 +4,7 @@
 
 # Aquarium – Projet Django
 
-Projet réalisé dans le cadre du cours **Data-Driven Programming** à Centrale Marseille
+Projet réalisé dans le cadre du cours **Data-Driven Programming** à Centrale Marseille  
 Objectif : découvrir la structure d’une application web Django et comprendre comment manipuler des données côté serveur.
 
 ## Description

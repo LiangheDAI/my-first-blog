@@ -1,3 +1,5 @@
+<img width="877" height="618" alt="Nemo" src="https://github.com/user-attachments/assets/d429a807-1796-4927-8bfd-1f408ea4845d" />
+<img width="1024" height="607" alt="Aquarium" src="https://github.com/user-attachments/assets/e449d15d-2d20-4f89-8f00-44dc25712e59" />
 # Aquarium – Projet Django
 
 Projet réalisé dans le cadre du cours **Data-Driven Programming** à Centrale Marseille
